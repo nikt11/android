@@ -277,7 +277,6 @@
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="master" />
   <project path="cts" name="platform/cts" remote="aosp" revision="master" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="master" />
-  <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.4.3" remote="aosp" revision="jb-dev" />
@@ -326,6 +325,7 @@
   <project path="packages/apps/Phone" name="codefireX/android_packages_apps_Phone" revision="jb-devel" />
   <project path="packages/apps/SoundRecorder" name="codefireX/platform_packages_apps_SoundRecorder" revision="jb-devel" />
   <project path="packages/apps/Torch" name="codefireX/android_packages_apps_Torch" revision="jb-devel" />
+  <project path="prebuilt" name="codefireX/platform_prebuilt" revision="jb-devel" />
   <project path="system/core" name="codefireX/android_system_core" revision="jb-devel" />
   <project path="system/extras" name="codefireX/platform_system_extras" revision="jb-devel" />
   <project path="system/security" name="codefireX/android_system_security" revision="jb-devel" />
